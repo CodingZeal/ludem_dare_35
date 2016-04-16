@@ -16,9 +16,15 @@ public class PlayerController : MonoBehaviour
 	{
 		float moveHorizontal = Input.GetAxis ("Horizontal");
 
-		Vector3 movement = new Vector3 (-moveHorizontal, 0.0f, 0.0f);
-		rb.velocity = movement * speed;
-		rb.transform.Translate(movement * Time.deltaTime);
+		moveHorizontal *= speed * -1;
+
+		transform.position = new Vector3 (transform.position.x + moveHorizontal * Time.deltaTime, transform.position.y);
+
+		//Vector3 movement = new Vector3 (-moveHorizontal, 0.0f, 0.0f);
+//		
+		//transform.position (movement);
+
+		//Translate(movement * Time.deltaTime);
 
 //		rb.position = new Vector3 
 //			(
