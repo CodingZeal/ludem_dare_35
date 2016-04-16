@@ -29,7 +29,7 @@ GameObject:
   - 114: {fileID: 11489178}
   - 114: {fileID: 11485442}
   m_Layer: 0
-  m_Name: Triangle Wall 1
+  m_Name: Triangle Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
