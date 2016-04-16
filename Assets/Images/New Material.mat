@@ -82,7 +82,7 @@ Material:
         first:
           name: _FrontTex
         second:
-          m_Texture: {fileID: 2800000, guid: f61503c87843a0044ad53e1b66b93fd9, type: 3}
+          m_Texture: {fileID: 2800000, guid: 88f8e9b2e5d15f74b9e30137282ed8c2, type: 3}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -136,7 +136,7 @@ Material:
       data:
         first:
           name: _Exposure
-        second: 1
+        second: 1.26
       data:
         first:
           name: _Parallax
@@ -176,7 +176,7 @@ Material:
       data:
         first:
           name: _Rotation
-        second: 0
+        second: 16
     m_Colors:
       data:
         first:
