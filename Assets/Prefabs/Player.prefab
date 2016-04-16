@@ -14,7 +14,7 @@ GameObject:
   - 114: {fileID: 11409240}
   - 114: {fileID: 11475888}
   m_Layer: 0
-  m_Name: PlayerAlt
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,8 +27,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 136076}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0.83, z: 0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -64,7 +64,7 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 136076}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300014, guid: ba48a69284aa04b3d98778beef52a62f, type: 3}
 --- !u!65 &6511146
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -89,10 +89,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shapes:
-  - {fileID: 4300006, guid: 5cdc633f61ff7af4ca48ff7b2307ad7b, type: 3}
-  - {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-  - {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
-  - {fileID: 4300010, guid: 5cdc633f61ff7af4ca48ff7b2307ad7b, type: 3}
+  - {fileID: 4300014, guid: ba48a69284aa04b3d98778beef52a62f, type: 3}
+  - {fileID: 4300006, guid: ba48a69284aa04b3d98778beef52a62f, type: 3}
+  - {fileID: 4300010, guid: ba48a69284aa04b3d98778beef52a62f, type: 3}
 --- !u!114 &11475888
 MonoBehaviour:
   m_ObjectHideFlags: 1

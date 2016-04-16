@@ -11,7 +11,7 @@ GameObject:
   - 114: {fileID: 11459206}
   - 114: {fileID: 11469904}
   m_Layer: 0
-  m_Name: Player
+  m_Name: PlayerOld
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -336,10 +336,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shapes:
-  - {fileID: 109876}
-  - {fileID: 190672}
-  - {fileID: 120098}
-  - {fileID: 128058}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!114 &11469904
 MonoBehaviour:
   m_ObjectHideFlags: 1
