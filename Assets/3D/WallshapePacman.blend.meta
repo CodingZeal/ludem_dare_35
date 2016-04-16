@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 5cdc633f61ff7af4ca48ff7b2307ad7b
+timeCreated: 1460794576
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Plane_001
+    100004: //RootNode
+    100006: Plane_000
+    100008: pacman
+    100010: pacmanHole
+    100012: TimeTurner
+    100014: TimeTurnerHole
+    100016: CircleHole
+    100018: Torus
+    100020: TorusHole
+    100022: Suzanne
+    100024: Suzanne_Cutter
+    100026: SuzanneHole
+    100028: Suzanne_001
+    100030: SuzanneCutter
+    400000: Cube
+    400002: Plane_001
+    400004: //RootNode
+    400006: Plane_000
+    400008: pacman
+    400010: pacmanHole
+    400012: TimeTurner
+    400014: TimeTurnerHole
+    400016: CircleHole
+    400018: Torus
+    400020: TorusHole
+    400022: Suzanne
+    400024: Suzanne_Cutter
+    400026: SuzanneHole
+    400028: Suzanne_001
+    400030: SuzanneCutter
+    2300000: Cube
+    2300002: Plane_001
+    2300004: Plane_000
+    2300006: pacman
+    2300008: pacmanHole
+    2300010: TimeTurner
+    2300012: TimeTurnerHole
+    2300014: CircleHole
+    2300016: Torus
+    2300018: TorusHole
+    2300020: Suzanne
+    2300022: Suzanne_Cutter
+    2300024: SuzanneHole
+    2300026: Suzanne_001
+    2300028: SuzanneCutter
+    3300000: Cube
+    3300002: Plane_001
+    3300004: Plane_000
+    3300006: pacman
+    3300008: pacmanHole
+    3300010: TimeTurner
+    3300012: TimeTurnerHole
+    3300014: CircleHole
+    3300016: Torus
+    3300018: TorusHole
+    3300020: Suzanne
+    3300022: Suzanne_Cutter
+    3300024: SuzanneHole
+    3300026: Suzanne_001
+    3300028: SuzanneCutter
+    4300000: Plane_001
+    4300002: Cube
+    4300004: Plane_000
+    4300006: pacman
+    4300008: pacmanHole
+    4300010: TimeTurner
+    4300012: TimeTurnerHole
+    4300014: Torus
+    4300016: CircleHole
+    4300018: TorusHole
+    4300020: Suzanne_Cutter
+    4300022: Suzanne
+    4300024: SuzanneHole
+    4300026: Suzanne_001
+    4300028: SuzanneCutter
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

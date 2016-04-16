@@ -4,7 +4,7 @@ using System.Collections;
 public class Engine : MonoBehaviour {
 
 	public float thrust;
-	public int bpm;
+	public static int bpm = 80;
 	public Rigidbody rb;
 
 	void Start() 
